@@ -1,0 +1,8 @@
+[
+  { "date": "2024-01-01", "amount": 23.5, "category": "Groceries" },
+  { "date": "2024-01-03", "amount": 50.0, "category": "Dining" },
+  { "date": "2024-01-10", "amount": 110.0, "category": "Rent" },
+  { "date": "2024-01-15", "amount": 24.5, "category": "Groceries" },
+  { "date": "2024-01-20", "amount": 70.0, "category": "Dining" },
+  { "date": "2024-01-25", "amount": 110.0, "category": "Rent" }
+]
